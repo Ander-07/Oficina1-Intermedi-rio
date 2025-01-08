@@ -10,7 +10,7 @@ function enviar(){
         categoria  = "Abaixo do peso"
     }
     if (imc >=18.5 && imc <=24.9){
-        categoria = "Peso normal"
+        categoria = "Normal"
     }
     if (imc >=25 && imc <=29.9 ){
         categoria = "Sobrepeso"

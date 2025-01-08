@@ -2,3 +2,65 @@
     padding: 0px;
     margin: 0px;
 }
+
+#topo{
+    display: flex;
+    max-width: 300px;  
+}
+
+#log{
+    max-width: 500px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 500px;
+    margin-bottom: 40px;
+    
+}
+
+.container{
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-right: 150px;
+}
+
+.titulo{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/*parágrafo*/
+.par{
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.header{
+    display: flex;
+}
+
+img{
+    max-width: 50%;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+#head{
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+}
